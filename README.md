@@ -19,7 +19,7 @@ Makobot is a fully functional, locally hosted Full-Stack AI Chatbot built with P
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/Makobot.git](https://github.com/MakhMeLene/Makobot.git)
+   git clone [https://github.com/MakhMeLene/Makobot.git](https://github.com/MakhMeLene/Makobot.git)
    cd Makobot
 Install dependencies:
 
